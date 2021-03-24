@@ -1,0 +1,94 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Courier New', monospace;
+  margin: 2em;
+  background-color: azure;
+  color: Black;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+  font-style: italic;
+  color: Black;
+}
+
+button {
+  font-family: 'Courier New', monospace;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+#startBtn {
+  background: ForestGreen;
+}
+
+#strikesBtn {
+  background: lightslategrey;
+}
+
+#levelBtn {
+  background: steelblue;
+}
+
+#stopBtn {
+  background: crimson;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: darkseagreen
+}
+
+#button1:active, #button1.lit {
+  background:darkolivegreen;
+}
+
+#button2 {
+  background: lightblue
+}
+
+#button2:active, #button2.lit  {
+  background:cornflowerblue;
+}
+
+#button3 {
+  background: lightpink
+}
+
+#button3:active, #button3.lit  {
+  background:lightcoral;
+}
+
+#button4 {
+  background: lightyellow
+}
+
+#button4:active, #button4.lit  {
+  background:wheat;
+}
+
+#button5 {
+  background: lavender
+}
+
+#button5:active, #button5.lit  {
+  background:thistle;
+}
+
+#button6 {
+  background: sandybrown
+}
+
+#button6:active, #button6.lit  {
+  background:sienna;
+}
