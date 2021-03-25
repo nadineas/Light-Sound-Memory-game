@@ -1,7 +1,7 @@
 // global constants
 const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
-const numRounds = 3;
+const numRounds = 9;
 const maxStrikes = 3;
 //Global Variables
 var pattern;
